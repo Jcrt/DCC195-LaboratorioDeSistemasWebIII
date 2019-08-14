@@ -1,4 +1,4 @@
 if(true){
-    let teste = "Cara de pau!";
+    let teste = "Olá Mundo!";
 }
 console.log(teste);
